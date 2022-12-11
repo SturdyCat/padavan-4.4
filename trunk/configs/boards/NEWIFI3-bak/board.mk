@@ -1,8 +1,8 @@
 ##################################################################
 # Board PID # Board Name       # PRODUCT # Note
 ##################################################################
-# NEWIFI   # NEWIFI          # MT7621  #
+# NEWIFI3   # NEWIFI3          # MT7621  #
 ##################################################################
 
-CFLAGS += -DBOARD_NEWIFI
-BOARD_NUM_USB_PORTS=2
+CFLAGS += -DBOARD_NEWIFI3
+BOARD_NUM_USB_PORTS=1
